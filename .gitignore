@@ -1,0 +1,5 @@
+.idea/
+db.sqlite3
+testapp/__pycache__/
+testapp/migrations
+DjangoRFApiView/__pycache__
